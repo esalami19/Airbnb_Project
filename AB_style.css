@@ -1,0 +1,18 @@
+body {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #ededed;
+    font-family:Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+}
+.search-container {
+    width: 100px;
+    margin: 0 auto;
+    background-color:rgb(255, 255, 255);
+    padding-bottom: 5%; 
+    padding-top: 1em;
+    padding-left: 150px;
+    padding-right: 150px; 
+    display: flex;
+    align-items:center;
+    justify-content: center;  
+}
